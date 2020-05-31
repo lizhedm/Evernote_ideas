@@ -101,9 +101,9 @@ AI推荐算法
 
 交互简洁（傻瓜模式）
 
-![video_time_compare](./wechat_short_video/user_age.jpeg)
+![video_time_compare](./wechat_short_video/user_age.jpg)
 
-![video_city_compare](./wechat_short_video/user_city.jpeg)
+![video_city_compare](./wechat_short_video/user_city.jpg)
 
 
 ##### 快手抖音的短视频内容构成
